@@ -13,3 +13,6 @@ _
 /src/main/java/com/github/dangelcrack/Punto.java,f\5\f54d7c4df9c4e57bc33ce8d7f5b93e98f8dabba1
 k
 ;src/main/java/com/github/dangelcrack/TransportistaFede.java,a\6\a6edf7caec20160c28940b354fc0c9c625c45a43
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
